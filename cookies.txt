@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hubspot.com	TRUE	/	FALSE	1999999999	__cf_bm	Y_7iUm5wf.LnMZauUIwHaRCDno4ilD_Pb8jtAyG1Yos-1667151946-0-AZPyoq8d6itoTIbY4th8QTPLb5Jvn+f/xQ1QJg95a8oqukufzN1K/MZ6HRRlYzR/r8+pX1xp5lozD0fsnxBTZ2c=
+no-cache.hubspot.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.constructconnect.com	TRUE	/	FALSE	1999999999	__cf_bm	h7pfJ2FkLJIH7siqDw8r0986L00lIu_Y8JK_6GvB8cQ-1667152015-0-AROlIjISgii/gncr6QCv9ePCgX2ANUQ01deuQOfP19fRWTuMbSjWjDHHqc2s8J2CAc44ER+6S+rwtDuXwFOwEnk=
+.www.constructconnect.com	TRUE	/	FALSE	1999999999	__cfruid	1e87a2b25840614fc2f820d0b5ae1a174d1c59d4-1667152015
+www.constructconnect.com	TRUE	/	FALSE	1999999999	SameSite	None
+
